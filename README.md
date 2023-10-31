@@ -29,11 +29,17 @@ testIsDraw checks if the isDraw method correctly identifies a draw.
 testReset checks if the reset method correctly resets the game state.
 
 
-
 Assertions:
 
 The assertEquals and assertTrue methods are used to compare the actual results of the TicTacToe methods with the expected results specified in the test cases. These assertions verify that the code behaves as intended.
 
 
+
+GUI(Java Swing) Update:
+
+
+![Screenshot (72)](https://github.com/samuelolubukun/TicTacToeTest-Cmp325/assets/132141300/f4812789-7c52-4dfe-aed5-47dac85371d0)
+![Screenshot (73)](https://github.com/samuelolubukun/TicTacToeTest-Cmp325/assets/132141300/f4508149-53e6-4773-a35c-734f60f88d2c)
+![Screenshot (74)](https://github.com/samuelolubukun/TicTacToeTest-Cmp325/assets/132141300/450a3431-4ad4-4ee0-aae7-0c7162816f95)
 
 
