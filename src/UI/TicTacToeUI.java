@@ -1,4 +1,4 @@
-package main.UI;
+package UI;
 
 import main.TicTacToe;
 
