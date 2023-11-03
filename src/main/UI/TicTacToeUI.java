@@ -1,4 +1,6 @@
-package main;
+package main.UI;
+
+import main.TicTacToe;
 
 import javax.swing.*;
 import java.awt.*;
